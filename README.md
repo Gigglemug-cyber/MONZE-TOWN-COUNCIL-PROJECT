@@ -40,6 +40,9 @@ The pipe character `|` is used as the column separator as specified in the proje
 ## Data Source
 
 All data was collected from publicly available information published by Monze Town Council.
+## Kaggle Dataset
+The published dataset is available on Kaggle:
+https://www.kaggle.com/datasets/queenchisengalumbwe/monze-town-council-public-dataset/data
 
 ## Project Team
 
