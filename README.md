@@ -1,16 +1,16 @@
-# Monze Town Council Dataset
+# Monze Town Council Dataset.
 
-## CSC 4792 – Data Mining and Warehousing
+## CSC 4792 – Data Mining and Warehousing.
 
 This repository contains the dataset, Jupyter Notebook, and Python scripts developed by Project Team 41 for the CSC 4792 Mini Project.
 
-## Assigned Council
+## Assigned Council.
 
 Monze Town Council, Zambia
 
 Official website: https://www.monzecouncil.gov.zm/
 
-## Project Objective
+## Project Objective.
 
 The aim of this project is to collect, clean, and organise publicly available information from Monze Town Council.
 
